@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- blog [songbirds](https://songbirds.top/)
+- blog [songbirds](https://www.songbirds.top/)
 - The world is beauty.
 - 生活很残酷，世界很美丽。
 
