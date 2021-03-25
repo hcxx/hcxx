@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 - blog <a href="https://www.songbirds.top" target="_blank">songbirds</a>
-- The world is beauty.
+- The world is beautiful.
 - 生活很残酷，世界很美丽。
 
 <!---
